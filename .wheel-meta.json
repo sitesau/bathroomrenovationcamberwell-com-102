@@ -1,0 +1,22 @@
+{
+  "wheel_id": 400,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcamberwell-com-102",
+  "project": "bathroom-renovation-camberwell-planning-guide-fc3c760f1d51f6acc",
+  "parent_t1_ref": "bathroomrenovationcamberwell-com-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovation camberwell planning guide",
+  "intended_url": "http://bathroom-renovation-camberwell-planning-guide-fc3c760f1d51f6acc.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8e7879a3911b8ce2",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/bathroom-renovation-camberwell-faq-193f5ad34097e5b650298da49ad3/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
